@@ -3,7 +3,7 @@ package store
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/mrChex/gustav/models"
+	"github.com/mrChex/horiv/models"
 	"go.etcd.io/bbolt"
 	"time"
 )

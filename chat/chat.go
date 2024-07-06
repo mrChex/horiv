@@ -3,8 +3,8 @@ package chat
 import (
 	"context"
 	"fmt"
-	"github.com/mrChex/gustav/models"
-	"github.com/mrChex/gustav/store"
+	"github.com/mrChex/horiv/models"
+	"github.com/mrChex/horiv/store"
 	"github.com/sashabaranov/go-openai"
 	"log"
 	"strings"

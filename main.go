@@ -14,10 +14,10 @@ import (
 	tgModels "github.com/go-telegram/bot/models"
 	"github.com/sashabaranov/go-openai"
 
-	chatS "github.com/mrChex/gustav/chat"
-	"github.com/mrChex/gustav/models"
-	sdkS "github.com/mrChex/gustav/sdk"
-	"github.com/mrChex/gustav/store"
+	chatS "github.com/mrChex/horiv/chat"
+	"github.com/mrChex/horiv/models"
+	sdkS "github.com/mrChex/horiv/sdk"
+	"github.com/mrChex/horiv/store"
 )
 
 type Config struct {

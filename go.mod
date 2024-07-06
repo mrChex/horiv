@@ -1,4 +1,4 @@
-module github.com/mrChex/gustav
+module github.com/mrChex/horiv
 
 go 1.22.4
 
